@@ -67,6 +67,7 @@ header {
     margin-top: 150px;
     color: rgb(0, 0, 0);
     text-align: center;
+    margin-bottom: 200px;
 }
 
 .container-map {
@@ -221,5 +222,4 @@ header {
   opacity:0.3;
   font-size:13px;
   margin-top: 20px;
-  margin-bottom:0;
 }
